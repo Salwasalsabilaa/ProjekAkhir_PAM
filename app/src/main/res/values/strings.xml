@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjekAkhir_PAM</string>
+    <string name="lognama">Masukkan Username</string>
+    <string name="logpassword">Masukkan Password</string>
+    <string name="login">LOGIN</string>
+    <string name="regEmail">Masukkan Email</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214963038542",
+    "project_id": "projekakhir-pam",
+    "storage_bucket": "projekakhir-pam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214963038542:android:4cc8a77382f6f0bf18161f",
+        "android_client_info": {
+          "package_name": "com.example.projekakhir_pam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214963038542-7afougu6g549n57o8tkcnbn34uj9ou5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ0wajWzjUjzug2SSlVWuvcy7dxYGU0pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214963038542-7afougu6g549n57o8tkcnbn34uj9ou5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
